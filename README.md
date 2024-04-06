@@ -54,7 +54,7 @@ You can [download](https://powerbi.microsoft.com/en-us/downloads/) the latest in
 
 [6] Visualizations: Three main topics were explored using visualizations (Demographics, Net Promoter Score, User Experience)
 
-* For detailed implementation process, check out the [Power BI steps document]()
+* For detailed implementation process, check out the [Power BI steps document](https://github.com/Nez3/airline-satisfaction-survey/blob/main/Power%20BI%20steps.docx)
 
 ## Visualizations
 
