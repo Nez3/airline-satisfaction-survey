@@ -1,5 +1,5 @@
 
-# Airlines Satisfaction Survey
+# Airlines Satisfaction Survey Analysis
 
 ![logo](https://github.com/Nez3/airline-satisfaction-survey/blob/main/airline_gif.gif?raw=true)
 
